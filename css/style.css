@@ -1178,6 +1178,9 @@ footer .top .row .col ul li {
     padding: 10px 0;
     cursor: pointer;
 }
+footer .top .row .col ul li a { 
+    color: #fff;
+}
 footer .top .row .col ul li:hover { 
     text-decoration: underline;
     transition: 0.5s ease-in;
@@ -1410,6 +1413,9 @@ footer .bot .center .icons i:hover {
         left: unset;
         float: right;
      }
+     footer  .top .row .col  .imporant-header-one { 
+        padding: 20px 0;
+     }
 }
 @media only screen and (min-width:641px) and (max-width:920px) { 
     html , body { 
@@ -1545,6 +1551,9 @@ footer .bot {
     footer .bot { 
         padding: 20px 50px;
     }
+    footer  .top .row .col  .imporant-header-one { 
+        padding: 20px 0;
+     }
 
 }
 @media only screen and (min-width:1241px) { 
